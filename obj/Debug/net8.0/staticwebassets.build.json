@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HTgDHE7NT1hPyr3FTzMXbC8EuF0NgPx/VACLpx9Rq6c=",
+  "Source": "CSVProcessor",
+  "BasePath": "_content/CSVProcessor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
